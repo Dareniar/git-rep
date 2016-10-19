@@ -1,2 +1,3 @@
 print(«Hello world»)
 print(«Hello everybody»)
+print(«It’s main version of program.»)
